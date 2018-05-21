@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ddd/CLionProjects/udprelay/UdpRelay.c
+stdio.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+pthread.h
+-
+string.h
+-
+stdlib.h
+-
+

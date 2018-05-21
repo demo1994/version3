@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/udprelay.dir/UdpRelay.c.o  -o udprelay -lpthread 
